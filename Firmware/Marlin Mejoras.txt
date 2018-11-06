@@ -1,0 +1,18 @@
+
+Mejoras
+
+- *Invertir sentido de X
+- *Aumentar printer halted (Configuracion adv)
+- *Cargar y descargar filamento
+- *Estadisticas (Configuracion adv LCD_INFO_MENU )
+- Support 
+- Corregir PID
+- *Corregir J-jerk (sobre 10-12)
+- Activar eprom  (configuracion.h)
+- Cambio de filamento  (M600 Configuracion adv) 
+- Support SD  (Configuracion adv)
+- Nivelacion de cama (configuracion.h)
+- Bajar aceleraciones (configuracion.h)
+- Cambiar dimensiones (configuracion.h)
+- Customizar nombre de impresora (configuracion.h)
+
